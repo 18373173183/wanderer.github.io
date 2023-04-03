@@ -1,3 +1,0 @@
-# wanderer.github.io
-
-wanderer
